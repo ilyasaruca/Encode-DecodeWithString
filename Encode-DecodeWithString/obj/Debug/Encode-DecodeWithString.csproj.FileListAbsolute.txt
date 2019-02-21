@@ -1,0 +1,7 @@
+E:\Projeler\Masaüstü Projeler\EncodeDecode\Encode-DecodeWithString\Encode-DecodeWithString\bin\Debug\Encode-DecodeWithString.exe.config
+E:\Projeler\Masaüstü Projeler\EncodeDecode\Encode-DecodeWithString\Encode-DecodeWithString\bin\Debug\Encode-DecodeWithString.exe
+E:\Projeler\Masaüstü Projeler\EncodeDecode\Encode-DecodeWithString\Encode-DecodeWithString\bin\Debug\Encode-DecodeWithString.pdb
+E:\Projeler\Masaüstü Projeler\EncodeDecode\Encode-DecodeWithString\Encode-DecodeWithString\obj\Debug\Encode-DecodeWithString.csprojAssemblyReference.cache
+E:\Projeler\Masaüstü Projeler\EncodeDecode\Encode-DecodeWithString\Encode-DecodeWithString\obj\Debug\Encode-DecodeWithString.csproj.CoreCompileInputs.cache
+E:\Projeler\Masaüstü Projeler\EncodeDecode\Encode-DecodeWithString\Encode-DecodeWithString\obj\Debug\Encode-DecodeWithString.exe
+E:\Projeler\Masaüstü Projeler\EncodeDecode\Encode-DecodeWithString\Encode-DecodeWithString\obj\Debug\Encode-DecodeWithString.pdb
